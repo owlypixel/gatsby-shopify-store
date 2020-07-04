@@ -1,0 +1,25 @@
+{
+  "name": "owlystore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gatsby": "gatsby"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "gatsby": "^2.23.20",
+    "gatsby-image": "^2.4.12",
+    "gatsby-plugin-sharp": "^2.6.17",
+    "gatsby-source-filesystem": "^2.3.18",
+    "gatsby-source-shopify": "^3.2.18",
+    "gatsby-transformer-sharp": "^2.5.10",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "shopify-buy": "^2.10.0"
+  }
+}
